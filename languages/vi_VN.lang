@@ -453,3 +453,20 @@ P_UNIT_DESCRIPTION_20=KỸ NĂNG CHỦ ĐỘNG :\n((1)) Khôi phục lượt đi
 #2.2.0
 
 L_GAME_TYPE=Loại trò chơi
+
+#2.3.0
+
+L_APPLY=Áp dụng
+L_CREATE_TRANSLATION=Tạo ngôn ngữ
+L_LANGUAGE_PACKS=Gói ngôn ngữ
+L_LOCAL=Gói ngôn ngữ của 
+L_MODIFY_TRANSLATION=Chỉnh sửa ngôn ngữ
+L_UPDATE=Nâng cấp
+L_UPLOAD_TRANSLATION=Tải bản dịch lên
+
+M_INFO_NOT_SUPPORTED=Không được hỗ trợ.
+M_INFO_TRANSLATION_ENTRY_LACKS=Hãy dịch xong mới được tải lên nhé
+M_INFO_TRANSLATION_NO_UPDATE=Gói ngôn ngữ này chưa được nâng cấp.
+M_INFO_TRANSLATION_NOT_FOUND=Không tìm thấy gói ngôn ngữ.
+M_INFO_TRANSLATION_UPDATED=Ngôn ngữ đã nâng cấp
+M_INFO_TRANSLATION_UPLOADED=Ngôn ngữ đã tải lên
